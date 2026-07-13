@@ -1,0 +1,918 @@
+Sample_ID	Cell_Line	Source	Primary_Site	Histology	Histology_Subtype
+GSM886835	1321N1	ECACC	central_nervous_system	glioma	astrocytoma
+GSM886836	143B	ATCC	bone	osteosarcoma	NA
+GSM886837	22Rv1	ATCC	prostate	carcinoma	NA
+GSM886838	23132/87	DSMZ	stomach	carcinoma	adenocarcinoma
+GSM886839	42-MG-BA	DSMZ	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM886840	5637	ATCC	urinary_tract	carcinoma	NA
+GSM886841	639-V	DSMZ	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM886842	647-V	DSMZ	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM886843	697	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_lymphoblastic_leukaemia
+GSM886844	769-P	ATCC	kidney	carcinoma	clear_cell_renal_cell_carcinoma
+GSM886845	786-O	ATCC	kidney	carcinoma	clear_cell_renal_cell_carcinoma
+GSM886846	8305C	DSMZ	thyroid	carcinoma	anaplastic_carcinoma
+GSM886847	8505C	HSRRB	thyroid	carcinoma	anaplastic_carcinoma
+GSM886848	8-MG-BA	DSMZ	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM886849	A101D	ATCC	skin	malignant_melanoma	NA
+GSM886850	A172	ATCC	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM886851	A-204	ATCC	soft_tissue	rhabdomyosarcoma	NA
+GSM886852	A-253	ATCC	salivary_gland	carcinoma	mucoepidermoid_carcinoma
+GSM886853	A2780	ECACC	ovary	carcinoma	adenocarcinoma
+GSM886854	A-375	ATCC	skin	malignant_melanoma	NA
+GSM886855	A3/KAW	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM886856	A-498	ATCC	kidney	carcinoma	renal_cell_carcinoma
+GSM886857	A4/Fuk	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM886858	A549	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM886859	A-673	ATCC	bone	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA
+GSM886860	A-704	ATCC	kidney	carcinoma	renal_cell_carcinoma
+GSM886861	ABC-1	HSRRB	lung	carcinoma	non_small_cell_carcinoma
+GSM886862	ACC-MESO-1	RIKEN	pleura	mesothelioma	NA
+GSM886863	ACHN	ATCC	kidney	carcinoma	renal_cell_carcinoma
+GSM886864	AGS	ATCC	stomach	carcinoma	adenocarcinoma
+GSM886865	Alexander cells	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM886866	AM-38	HSRRB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM886867	AML-193	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM886868	AMO-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM886869	AN3 CA	ATCC	endometrium	carcinoma	adenocarcinoma
+GSM886870	AsPC-1	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM886871	AU565	ATCC	breast	carcinoma	NA
+GSM886872	AZ-521	HSRRB	stomach	carcinoma	NA
+GSM886873	BC-3C	DSMZ	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM886874	BCP-1	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	B_cell_lymphoma_unspecified
+GSM886875	B-CPAP	DSMZ	thyroid	carcinoma	papillary_carcinoma
+GSM886876	BDCM	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM886877	Becker	HSRRB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM886878	BEN	DSMZ	lung	carcinoma	NA
+GSM886879	BFTC-905	DSMZ	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM886880	BFTC-909	DSMZ	kidney	carcinoma	NA
+GSM886881	BHT-101	DSMZ	thyroid	carcinoma	anaplastic_carcinoma
+GSM886882	BHY	DSMZ	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM886883	BICR 16	ECACC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM886884	BICR 18	ECACC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM886885	BICR 22	ECACC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM886886	BICR 31	ECACC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM886887	BICR 56	ECACC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM886888	BICR 6	ECACC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM886889	BL-41	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Burkitt_lymphoma
+GSM886890	BL-70	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Burkitt_lymphoma
+GSM886891	BT-20	ATCC	breast	carcinoma	ductal_carcinoma
+GSM886892	BT-474	ATCC	breast	carcinoma	ductal_carcinoma
+GSM886893	BT-483	ATCC	breast	carcinoma	ductal_carcinoma
+GSM886894	BT-549	ATCC	breast	carcinoma	ductal_carcinoma
+GSM886895	BV-173	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM886896	BxPC-3	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM886897	C2BBe1	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM886898	C32	ATCC	skin	malignant_melanoma	NA
+GSM886899	C3A	ATCC	liver	carcinoma	hepatocellular_carcinoma
+GSM886900	CA46	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Burkitt_lymphoma
+GSM886901	CADO-ES1	DSMZ	bone	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA
+GSM886902	Caki-1	ATCC	kidney	carcinoma	clear_cell_renal_cell_carcinoma
+GSM886903	Caki-2	ATCC	kidney	carcinoma	clear_cell_renal_cell_carcinoma
+GSM886904	CAL-120	DSMZ	breast	carcinoma	NA
+GSM886905	CAL-12T	DSMZ	lung	carcinoma	non_small_cell_carcinoma
+GSM886906	CAL-148	DSMZ	breast	carcinoma	ductal_carcinoma
+GSM886907	CAL 27	ATCC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM886908	CAL-29	DSMZ	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM886909	CAL-51	DSMZ	breast	carcinoma	NA
+GSM886910	CAL-54	DSMZ	kidney	carcinoma	renal_cell_carcinoma
+GSM886911	CAL-62	DSMZ	thyroid	carcinoma	anaplastic_carcinoma
+GSM886912	CAL-78	DSMZ	bone	chondrosarcoma	dedifferentiated
+GSM886913	CAL-85-1	DSMZ	breast	carcinoma	NA
+GSM886914	Calu-1	ATCC	lung	carcinoma	squamous_cell_carcinoma
+GSM886915	Calu-3	ATCC	lung	carcinoma	adenocarcinoma
+GSM886916	Calu-6	ATCC	lung	carcinoma	undifferentiated_carcinoma
+GSM886917	CAMA-1	ATCC	breast	carcinoma	NA
+GSM886918	Caov-3	ATCC	ovary	carcinoma	adenocarcinoma
+GSM886919	Caov-4	ATCC	ovary	carcinoma	adenocarcinoma
+GSM886920	Capan-1	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM886921	Capan-2	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM886922	CAS-1	ICLC	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM886923	CCF-STTG1	ATCC	central_nervous_system	glioma	astrocytoma
+GSM886924	CCK-81	HSRRB	large_intestine	carcinoma	adenocarcinoma
+GSM886925	CFPAC-1	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM886926	CGTH-W-1	DSMZ	thyroid	carcinoma	follicular_carcinoma
+GSM886927	ChaGo-K-1	ECACC	lung	carcinoma	NA
+GSM886928	CHL-1	ATCC	skin	malignant_melanoma	NA
+GSM886929	CHP-126	DSMZ	autonomic_ganglia	neuroblastoma	NA
+GSM886930	CHP-212	ATCC	autonomic_ganglia	neuroblastoma	NA
+GSM886931	CI-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	B_cell_lymphoma_unspecified
+GSM886932	CJM	RIKEN	skin	malignant_melanoma	NA
+GSM886933	CL-11	DSMZ	large_intestine	carcinoma	adenocarcinoma
+GSM886934	CL-14	DSMZ	large_intestine	carcinoma	NA
+GSM886935	CL-34	DSMZ	large_intestine	carcinoma	adenocarcinoma
+GSM886936	CL-40	DSMZ	large_intestine	carcinoma	NA
+GSM886937	CMK-11-5	HSRRB	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM886938	CMK	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM886939	CML-T1	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM886940	COLO 205	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM886941	COLO-320	DSMZ	large_intestine	carcinoma	adenocarcinoma
+GSM886942	COLO 668	ECACC	lung	carcinoma	small_cell_carcinoma
+GSM886943	COLO-678	DSMZ	large_intestine	carcinoma	adenocarcinoma
+GSM886944	COLO-679	DSMZ	skin	malignant_melanoma	NA
+GSM886945	COLO-680N	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM886946	COLO-699	DSMZ	lung	carcinoma	adenocarcinoma
+GSM886947	COLO-704	DSMZ	ovary	carcinoma	NA
+GSM886948	COLO 741	ECACC	skin	malignant_melanoma	NA
+GSM886949	COLO-783	DSMZ	skin	malignant_melanoma	NA
+GSM886950	COLO 792	ECACC	skin	malignant_melanoma	NA
+GSM886951	COLO-800	DSMZ	skin	malignant_melanoma	NA
+GSM886952	COLO-818	DSMZ	skin	malignant_melanoma	NA
+GSM886953	COLO 829	ATCC	skin	malignant_melanoma	NA
+GSM886954	COLO-849	DSMZ	skin	malignant_melanoma	NA
+GSM886955	COR-L105	ECACC	lung	carcinoma	adenocarcinoma
+GSM886956	COR-L23	ECACC	lung	carcinoma	large_cell_carcinoma
+GSM886957	COR-L24	ECACC	lung	carcinoma	small_cell_carcinoma
+GSM886958	COR-L311	ECACC	lung	carcinoma	small_cell_carcinoma
+GSM886959	COR-L47	ECACC	lung	carcinoma	small_cell_carcinoma
+GSM886960	COR-L88	ECACC	lung	carcinoma	small_cell_carcinoma
+GSM886961	COR-L95	ECACC	lung	carcinoma	small_cell_carcinoma
+GSM886962	COV318	ECACC	ovary	carcinoma	NA
+GSM886963	COV362	ECACC	ovary	carcinoma	NA
+GSM886964	COV434	ECACC	ovary	sex_cord-stromal_tumour	granulosa_cell_tumour
+GSM886965	COV504	ECACC	ovary	carcinoma	NA
+GSM886966	COV644	ECACC	ovary	carcinoma	NA
+GSM886967	CPC-N	DSMZ	lung	carcinoma	small_cell_carcinoma
+GSM886968	CW-2	RIKEN	large_intestine	carcinoma	NA
+GSM886969	D283 Med	ATCC	central_nervous_system	primitive_neuroectodermal_tumour-medulloblastoma	NA
+GSM886970	D341 Med	ATCC	central_nervous_system	primitive_neuroectodermal_tumour-medulloblastoma	NA
+GSM886971	DAN-G	DSMZ	pancreas	carcinoma	NA
+GSM886972	Daoy	ATCC	central_nervous_system	primitive_neuroectodermal_tumour-medulloblastoma	NA
+GSM886973	Daudi	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Burkitt_lymphoma
+GSM886974	DBTRG-05MG	ATCC	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM886975	DB	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM886976	DEL	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	NA
+GSM886977	Detroit 562	ATCC	upper_aerodigestive_tract	carcinoma	NA
+GSM886978	DK-MG	DSMZ	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM886979	DLD-1	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM886980	DMS 114	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM886981	DMS 153	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM886982	DMS 273	ECACC	lung	carcinoma	small_cell_carcinoma
+GSM886983	DMS 454	ECACC	lung	carcinoma	small_cell_carcinoma
+GSM886984	DMS 53	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM886985	DMS 79	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM886986	DND-41	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM886987	DOHH-2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM886988	DU 145	ATCC	prostate	carcinoma	NA
+GSM886989	DU4475	ATCC	breast	carcinoma	NA
+GSM886990	DV-90	DSMZ	lung	carcinoma	adenocarcinoma
+GSM886991	EB1	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Burkitt_lymphoma
+GSM886992	EB2	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Burkitt_lymphoma
+GSM886993	EBC-1	RIKEN	lung	carcinoma	squamous_cell_carcinoma
+GSM886994	ECC10	RIKEN	stomach	carcinoma	small_cell_adenocarcinoma
+GSM886995	ECC12	RIKEN	stomach	carcinoma	small_cell_adenocarcinoma
+GSM886996	EC-GI-10	RIKEN	oesophagus	carcinoma	NA
+GSM886997	EFE-184	DSMZ	endometrium	carcinoma	NA
+GSM886998	EFM-192A	DSMZ	breast	carcinoma	NA
+GSM886999	EFM-19	DSMZ	breast	carcinoma	ductal_carcinoma
+GSM887000	EFO-21	DSMZ	ovary	carcinoma	serous_carcinoma
+GSM887001	EFO-27	DSMZ	ovary	carcinoma	mucinous_carcinoma
+GSM887002	EHEB	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma
+GSM887003	EJM	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887004	EM-2	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM887005	EN	DSMZ	endometrium	carcinoma	NA
+GSM887006	EOL-1	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887007	EPLC-272H	DSMZ	lung	carcinoma	squamous_cell_carcinoma
+GSM887008	ES-2	ATCC	ovary	carcinoma	clear_cell_carcinoma
+GSM887009	ESS-1	DSMZ	endometrium	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour
+GSM887010	F-36P	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887011	FaDu	ATCC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887012	FTC-133	ECACC	thyroid	carcinoma	follicular_carcinoma
+GSM887013	FU97	HSRRB	stomach	carcinoma	diffuse_adenocarcinoma
+GSM887014	FU-OV-1	DSMZ	ovary	carcinoma	serous_carcinoma
+GSM887015	G-292, clone A141B1	ATCC	bone	osteosarcoma	NA
+GSM887016	G-361	ATCC	skin	malignant_melanoma	NA
+GSM887017	G-401	ATCC	soft_tissue	rhabdoid_tumour	NA
+GSM887018	G-402	ATCC	soft_tissue	rhabdoid_tumour	NA
+GSM887019	GA-10	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Burkitt_lymphoma
+GSM887020	GAMG	DSMZ	central_nervous_system	glioma	NA
+GSM887021	GCIY	RIKEN	stomach	carcinoma	adenocarcinoma
+GSM887022	GCT	ATCC	soft_tissue	malignant_fibrous_histiocytoma-pleomorphic_sarcoma	NA
+GSM887023	GDM-1	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887024	GI-1	RIKEN	central_nervous_system	glioma	gliosarcoma
+GSM887025	GMS-10	DSMZ	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887026	GOS-3	DSMZ	central_nervous_system	glioma	astrocytoma
+GSM887027	GP2d	ECACC	large_intestine	carcinoma	adenocarcinoma
+GSM887028	GRANTA-519	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	mantle_cell_lymphoma
+GSM887029	GSS	RIKEN	stomach	carcinoma	adenocarcinoma
+GSM887030	GSU	RIKEN	stomach	carcinoma	adenocarcinoma
+GSM887031	H4	ATCC	central_nervous_system	glioma	NA
+GSM887032	HARA	HSRRB	lung	carcinoma	squamous_cell_carcinoma
+GSM887033	HCC1143	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887034	HCC-1171	KCLB	lung	carcinoma	non_small_cell_carcinoma
+GSM887035	HCC1187	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887036	HCC-1195	KCLB	lung	carcinoma	mixed_adenosquamous_carcinoma
+GSM887037	HCC1395	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887038	HCC1419	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887039	HCC1428	ATCC	breast	carcinoma	NA
+GSM887040	HCC1500	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887041	HCC1569	ATCC	breast	carcinoma	metaplastic_carcinoma
+GSM887042	HCC1599	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887043	HCC-15	DSMZ	lung	carcinoma	squamous_cell_carcinoma
+GSM887044	HCC1806	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887045	HCC1937	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887046	HCC1954	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887047	HCC202	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887048	HCC2157	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887049	HCC2218	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887050	HCC-2279	KCLB	lung	carcinoma	adenocarcinoma
+GSM887051	HCC2935	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887052	HCC-33	DSMZ	lung	carcinoma	small_cell_carcinoma
+GSM887053	HCC-366	DSMZ	lung	carcinoma	mixed_adenosquamous_carcinoma
+GSM887054	HCC38	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887055	HCC4006	ATCC	lung	carcinoma	adenocarcinoma
+GSM887056	HCC-44	DSMZ	lung	carcinoma	adenocarcinoma
+GSM887057	HCC-56	HSRRB	large_intestine	carcinoma	adenocarcinoma
+GSM887058	HCC70	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887059	HCC-78	DSMZ	lung	carcinoma	adenocarcinoma
+GSM887060	HCC827	ATCC	lung	carcinoma	adenocarcinoma
+GSM887061	HCC-95	KCLB	lung	carcinoma	squamous_cell_carcinoma
+GSM887062	HCT 116	ATCC	large_intestine	carcinoma	NA
+GSM887063	HCT-15	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887064	HDLM-2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887065	HD-MY-Z	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887066	HDQ-P1	DSMZ	breast	carcinoma	ductal_carcinoma
+GSM887067	HEC-108	HSRRB	endometrium	carcinoma	adenocarcinoma
+GSM887068	HEC-151	HSRRB	endometrium	carcinoma	adenocarcinoma
+GSM887069	HEC-1-A	ATCC	endometrium	carcinoma	adenocarcinoma
+GSM887070	HEC-1-B	ATCC	endometrium	carcinoma	adenocarcinoma
+GSM887071	HEC-251	HSRRB	endometrium	carcinoma	adenocarcinoma
+GSM887072	HEC-265	HSRRB	endometrium	carcinoma	adenocarcinoma
+GSM887073	HEC-50B	HSRRB	endometrium	carcinoma	adenocarcinoma
+GSM887074	HEC-59	HSRRB	endometrium	carcinoma	adenocarcinoma
+GSM887075	HEC-6	HSRRB	endometrium	carcinoma	adenocarcinoma
+GSM887076	HEL 92.1.7	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887077	HEL	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887078	Hep 3B2.1-7	ATCC	liver	carcinoma	hepatocellular_carcinoma
+GSM887079	Hep G2	ATCC	liver	carcinoma	hepatocellular_carcinoma
+GSM887080	Hey-A8	Academic Lab	ovary	carcinoma	NA
+GSM887081	HGC-27	ECACC	stomach	carcinoma	undifferentiated_adenocarcinoma
+GSM887082	HH	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	adult_T_cell_lymphoma-leukaemia
+GSM887083	HL-60	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887084	HLE	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM887085	HLF-a	ATCC	lung	carcinoma	squamous_cell_carcinoma
+GSM887086	HLF	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM887087	HMCB	ATCC	skin	malignant_melanoma	NA
+GSM887088	HOS	ATCC	bone	osteosarcoma	NA
+GSM887089	HPAC	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887090	HPAF-II	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887091	HPB-ALL	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887092	Hs 172.T	ATCC	urinary_tract	carcinoma	NA
+GSM887093	Hs 229.T	ATCC	lung	carcinoma	adenocarcinoma
+GSM887094	Hs 274.T	ATCC	breast	carcinoma	NA
+GSM887095	Hs 281.T	ATCC	breast	carcinoma	NA
+GSM887096	Hs 294T	ATCC	skin	malignant_melanoma	NA
+GSM887097	Hs 343.T	ATCC	breast	carcinoma	NA
+GSM887098	Hs 578T	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887099	Hs 600.T	ATCC	skin	malignant_melanoma	NA
+GSM887100	Hs 604.T	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887101	Hs 606.T	ATCC	breast	carcinoma	NA
+GSM887102	Hs 611.T	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887103	Hs 616.T	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887104	Hs 618.T	ATCC	lung	carcinoma	adenocarcinoma
+GSM887105	Hs 675.T	ATCC	large_intestine	carcinoma	NA
+GSM887106	Hs 683	ATCC	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887107	Hs 688(A).T	ATCC	skin	malignant_melanoma	NA
+GSM887108	Hs 695T	ATCC	skin	malignant_melanoma	NA
+GSM887109	Hs 698.T	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887110	Hs 706.T	ATCC	bone	giant_cell_tumour	NA
+GSM887111	Hs 729	ATCC	soft_tissue	rhabdomyosarcoma	NA
+GSM887112	Hs 737.T	ATCC	bone	other	giant_cell_tumour
+GSM887113	Hs 739.T	ATCC	breast	carcinoma	NA
+GSM887114	Hs 742.T	ATCC	breast	carcinoma	NA
+GSM887115	Hs 746T	ATCC	stomach	carcinoma	NA
+GSM887116	Hs 751.T	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887117	Hs 766T	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887118	Hs 819.T	ATCC	bone	chondrosarcoma	NA
+GSM887119	Hs 821.T	ATCC	bone	giant_cell_tumour	NA
+GSM887120	Hs 822.T	ATCC	bone	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA
+GSM887121	Hs 839.T	ATCC	skin	malignant_melanoma	NA
+GSM887122	Hs 840.T	ATCC	upper_aerodigestive_tract	other	papilloma
+GSM887123	Hs 852.T	ATCC	skin	malignant_melanoma	NA
+GSM887124	Hs 863.T	ATCC	bone	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA
+GSM887125	Hs 870.T	ATCC	bone	osteosarcoma	NA
+GSM887126	Hs 888.T	ATCC	bone	osteosarcoma	NA
+GSM887127	Hs 895.T	ATCC	skin	malignant_melanoma	NA
+GSM887128	Hs 934.T	ATCC	skin	malignant_melanoma	NA
+GSM887129	Hs 936.T	ATCC	skin	malignant_melanoma	NA
+GSM887130	Hs 939.T	ATCC	skin	malignant_melanoma	NA
+GSM887131	Hs 940.T	ATCC	skin	malignant_melanoma	NA
+GSM887132	Hs 944.T	ATCC	skin	malignant_melanoma	NA
+GSM887133	HSC-2	HSRRB	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887134	HSC-3	HSRRB	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887135	HSC-4	HSRRB	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887136	HT-1080	ATCC	soft_tissue	fibrosarcoma	NA
+GSM887137	HT115	ECACC	large_intestine	carcinoma	NA
+GSM887138	HT-1197	ATCC	urinary_tract	carcinoma	NA
+GSM887139	HT-1376	ATCC	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887140	HT-144	ATCC	skin	malignant_melanoma	NA
+GSM887141	HT-29	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887142	HT55	ECACC	large_intestine	carcinoma	adenocarcinoma
+GSM887143	HT	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	B_cell_lymphoma_unspecified
+GSM887144	HuCCT1	HSRRB	biliary_tract	carcinoma	NA
+GSM887145	HuG1-N	RIKEN	stomach	carcinoma	NA
+GSM887146	huH-1	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM887147	HuH28	HSRRB	biliary_tract	carcinoma	NA
+GSM887148	HuH-6	RIKEN	liver	other	hepatoblastoma
+GSM887149	HuH-7	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM887150	HuNS1	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887151	HUP-T3	DSMZ	pancreas	carcinoma	NA
+GSM887152	HUP-T4	DSMZ	pancreas	carcinoma	NA
+GSM887153	HuT 102	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	mycosis_fungoides-Sezary_syndrome
+GSM887154	HuT 78	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	mycosis_fungoides-Sezary_syndrome
+GSM887155	HuTu 80	ATCC	small_intestine	carcinoma	adenocarcinoma
+GSM887156	IA-LM	RIKEN	lung	carcinoma	large_cell_carcinoma
+GSM887157	IGR-1	DSMZ	skin	malignant_melanoma	NA
+GSM887158	IGR-37	DSMZ	skin	malignant_melanoma	NA
+GSM887159	IGR-39	DSMZ	skin	malignant_melanoma	NA
+GSM887160	IGROV1	NCI/DCTD	ovary	carcinoma	adenocarcinoma
+GSM887161	IM95	HSRRB	stomach	carcinoma	intestinal_adenocarcinoma
+GSM887162	IMR-32	ATCC	autonomic_ganglia	neuroblastoma	NA
+GSM887163	IPC-298	DSMZ	skin	malignant_melanoma	NA
+GSM887164	Ishikawa (Heraklio) 02 ER-	ECACC	endometrium	carcinoma	adenocarcinoma
+GSM887165	IST-MES1	ICLC	pleura	mesothelioma	NA
+GSM887166	IST-MES2	ICLC	pleura	mesothelioma	NA
+GSM887167	J82	ATCC	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887168	JeKo-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	mantle_cell_lymphoma
+GSM887169	JHH-1	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM887170	JHH-2	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM887171	JHH-4	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM887172	JHH-5	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM887173	JHH-6	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM887174	JHH-7	HSRRB	liver	carcinoma	hepatocellular_carcinoma
+GSM887175	JHOC-5	RIKEN	ovary	carcinoma	clear_cell_carcinoma
+GSM887176	JHOM-1	RIKEN	ovary	carcinoma	adenocarcinoma
+GSM887177	JHOM-2B	RIKEN	ovary	carcinoma	adenocarcinoma
+GSM887178	JHOS-2	RIKEN	ovary	carcinoma	adenocarcinoma
+GSM887179	JHOS-4	RIKEN	ovary	carcinoma	adenocarcinoma
+GSM887180	JHUEM-1	RIKEN	endometrium	carcinoma	adenocarcinoma
+GSM887181	JHUEM-2	RIKEN	endometrium	carcinoma	adenocarcinoma
+GSM887182	JHUEM-3	RIKEN	endometrium	carcinoma	adenocarcinoma
+GSM887183	JIMT-1	DSMZ	breast	carcinoma	ductal_carcinoma
+GSM887184	JK-1	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM887185	JL-1	DSMZ	pleura	mesothelioma	NA
+GSM887186	JM1	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	B_cell_lymphoma_unspecified
+GSM887187	JMSU-1	DSMZ	urinary_tract	carcinoma	NA
+GSM887188	JURKAT	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887189	JURL-MK1	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM887190	JVM-2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma
+GSM887191	JVM-3	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma
+GSM887192	K029AX	Academic Lab	skin	malignant_melanoma	NA
+GSM887193	K-562	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM887194	KALS-1	HSRRB	central_nervous_system	glioma	NA
+GSM887195	KARPAS-299	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	anaplastic_large_cell_lymphoma
+GSM887196	KARPAS-620	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887197	KASUMI-1	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887198	KASUMI-2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_leukaemia
+GSM887199	Kasumi-6	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887200	KATO III	ATCC	stomach	carcinoma	adenocarcinoma
+GSM887201	KCI-MOH1	DSMZ	pancreas	carcinoma	ductal_carcinoma
+GSM887202	KCL-22	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM887203	KE-37	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_lymphoblastic_leukaemia
+GSM887204	KE-39	RIKEN	stomach	carcinoma	NA
+GSM887205	KE-97	RIKEN	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887206	KELLY	DSMZ	autonomic_ganglia	neuroblastoma	NA
+GSM887207	KG-1-C	HSRRB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887208	KG-1	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887209	KHM-1B	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887210	Ki-JK	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	anaplastic_large_cell_lymphoma
+GSM887211	KLE	ATCC	endometrium	carcinoma	adenocarcinoma
+GSM887212	KM12	Academic Lab	large_intestine	carcinoma	adenocarcinoma
+GSM887213	KMBC-2	HSRRB	urinary_tract	carcinoma	NA
+GSM887214	KM-H2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887215	KMM-1	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887216	KMRC-1	HSRRB	kidney	carcinoma	clear_cell_renal_cell_carcinoma
+GSM887217	KMRC-20	HSRRB	kidney	carcinoma	renal_cell_carcinoma
+GSM887218	KMRC-2	HSRRB	kidney	carcinoma	clear_cell_renal_cell_carcinoma
+GSM887219	KMRC-3	HSRRB	kidney	carcinoma	clear_cell_renal_cell_carcinoma
+GSM887220	KMS-11	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887221	KMS-12-BM	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887222	KMS-18	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887223	KMS-20	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887224	KMS-21BM	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887225	KMS-26	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887226	KMS-27	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887227	KMS-28BM	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887228	KMS-34	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887229	KNS-42	HSRRB	central_nervous_system	glioma	NA
+GSM887230	KNS-60	HSRRB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887231	KNS-62	HSRRB	lung	carcinoma	squamous_cell_carcinoma
+GSM887232	KNS-81	HSRRB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887233	KO52	HSRRB	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887234	KOPN-8	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887235	KP-2	HSRRB	pancreas	carcinoma	NA
+GSM887236	KP-3	HSRRB	pancreas	carcinoma	ductal_carcinoma
+GSM887237	KP4	RIKEN	pancreas	carcinoma	ductal_carcinoma
+GSM887238	KPL-1	DSMZ	breast	carcinoma	ductal_carcinoma
+GSM887239	KP-N-RT-BM-1	HSRRB	autonomic_ganglia	neuroblastoma	NA
+GSM887240	KP-N-SI9s	HSRRB	autonomic_ganglia	neuroblastoma	NA
+GSM887241	KP-N-YN	HSRRB	autonomic_ganglia	neuroblastoma	NA
+GSM887242	KS-1	HSRRB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887243	KU-19-19	DSMZ	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887244	KU812	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	chronic_myeloid_leukaemia
+GSM887245	KYM-1	HSRRB	soft_tissue	rhabdomyosarcoma	NA
+GSM887246	KYO-1	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM887247	KYSE-140	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887248	KYSE-150	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887249	KYSE-180	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887250	KYSE-270	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887251	KYSE-30	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887252	KYSE-410	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887253	KYSE-450	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887254	KYSE-510	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887255	KYSE-520	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887256	KYSE-70	DSMZ	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887257	L-1236	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887258	L3.3	Academic Lab	pancreas	carcinoma	NA
+GSM887259	L-363	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887260	L-428	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887261	L-540	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887262	LAMA-84	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM887263	LC-1/sq-SF	RIKEN	lung	carcinoma	squamous_cell_carcinoma
+GSM887264	LCLC-103H	DSMZ	lung	carcinoma	large_cell_carcinoma
+GSM887265	LCLC-97TM1	DSMZ	lung	carcinoma	large_cell_carcinoma
+GSM887266	Li-7	RIKEN	liver	carcinoma	hepatocellular_carcinoma
+GSM887267	LK-2	RIKEN	lung	carcinoma	squamous_cell_carcinoma
+GSM887268	LMSU	RIKEN	stomach	carcinoma	adenocarcinoma
+GSM887269	LN-18	ATCC	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887270	LN-229	ATCC	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887271	LNCaP clone FGC	ATCC	prostate	carcinoma	adenocarcinoma
+GSM887272	Loucy	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887273	LOU-NH91	DSMZ	lung	carcinoma	squamous_cell_carcinoma
+GSM887274	LoVo	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887275	LOX IMVI	NCI/DCTD	skin	malignant_melanoma	NA
+GSM887276	LP-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887277	LS1034	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887278	LS123	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887279	LS 180	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887280	LS411N	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887281	LS513	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887282	LU65	HSRRB	lung	carcinoma	non_small_cell_carcinoma
+GSM887283	LU99	HSRRB	lung	carcinoma	large_cell_carcinoma
+GSM887284	LUDLU-1	ECACC	lung	carcinoma	squamous_cell_carcinoma
+GSM887285	LXF-289	DSMZ	lung	carcinoma	adenocarcinoma
+GSM887286	M059K	ATCC	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887287	M-07e	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887288	Malme-3M	ATCC	skin	malignant_melanoma	NA
+GSM887289	MC116	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	B_cell_lymphoma_unspecified
+GSM887290	MCAS	HSRRB	ovary	carcinoma	adenocarcinoma
+GSM887291	MCF7	ATCC	breast	carcinoma	NA
+GSM887292	MDA-MB-134-VI	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887293	MDA-MB-157	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887294	MDA-MB-175-VII	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887295	MDA-MB-231	ATCC	breast	carcinoma	NA
+GSM887296	MDA-MB-361	ATCC	breast	carcinoma	NA
+GSM887297	MDA-MB-415	ATCC	breast	carcinoma	NA
+GSM887298	MDA-MB-435S	ATCC	skin	malignant_melanoma	NA
+GSM887299	MDA-MB-436	ATCC	breast	carcinoma	NA
+GSM887300	MDA-MB-453	ATCC	breast	carcinoma	NA
+GSM887301	MDA-MB-468	ATCC	breast	carcinoma	NA
+GSM887302	MDA PCa 2b	ATCC	prostate	carcinoma	adenocarcinoma
+GSM887303	MDST8	ECACC	large_intestine	carcinoma	adenocarcinoma
+GSM887304	ME-1	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887305	MEC-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma
+GSM887306	MEC-2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma
+GSM887307	MEG-01	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM887308	MEL-HO	DSMZ	skin	malignant_melanoma	NA
+GSM887309	MEL-JUSO	DSMZ	skin	malignant_melanoma	NA
+GSM887310	MeWo	ATCC	skin	malignant_melanoma	NA
+GSM887311	MFE-280	DSMZ	endometrium	carcinoma	adenocarcinoma
+GSM887312	MFE-296	DSMZ	endometrium	carcinoma	adenocarcinoma
+GSM887313	MFE-319	DSMZ	endometrium	carcinoma	adenocarcinoma
+GSM887314	MG-63	ATCC	bone	osteosarcoma	NA
+GSM887315	MHH-CALL-2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887316	MHH-CALL-3	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887317	MHH-CALL-4	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887318	MHH-ES-1	DSMZ	bone	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA
+GSM887319	MHH-NB-11	DSMZ	autonomic_ganglia	neuroblastoma	NA
+GSM887320	MIA PaCa-2	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887321	Mino	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	mantle_cell_lymphoma
+GSM887322	MJ	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	mycosis_fungoides-Sezary_syndrome
+GSM887323	MKN1	HSRRB	stomach	carcinoma	mixed_adenosquamous_carcinoma
+GSM887324	MKN-45	HSRRB	stomach	carcinoma	diffuse_adenocarcinoma
+GSM887325	MKN74	HSRRB	stomach	carcinoma	tubular_adenocarcinoma
+GSM887326	MKN7	RIKEN	stomach	carcinoma	tubular_adenocarcinoma
+GSM887327	ML-1	DSMZ	thyroid	carcinoma	follicular_carcinoma
+GSM887328	MM1-S	Academic Lab	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887329	MOLM-13	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887330	MOLM-16	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887331	MOLM-6	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM887332	MOLP-2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887333	MOLP-8	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887334	MOLT-13	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887335	MOLT-16	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887336	MOLT-4	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887337	MONO-MAC-1	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887338	MONO-MAC-6	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887339	MOR/CPR	ECACC	lung	carcinoma	adenocarcinoma
+GSM887340	MOTN-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	T_cell_large_granular_lymphocytic_leukaemia
+GSM887341	MPP 89	ICLC	pleura	mesothelioma	NA
+GSM887342	MSTO-211H	ATCC	pleura	mesothelioma	NA
+GSM887343	MUTZ-5	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887344	MV-4-11	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887345	NALM-19	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887346	NALM-1	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia
+GSM887347	NALM-6	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887348	NB-1	HSRRB	autonomic_ganglia	neuroblastoma	NA
+GSM887349	NB-4	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887350	NCI-H1048	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887351	NCI-H1092	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887352	NCI-H1105	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887353	NCI-H1155	ATCC	lung	carcinoma	large_cell_carcinoma
+GSM887354	NCI-H1184	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887355	NCI-H1299	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887356	NCI-H1339	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887357	NCI-H1341	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887358	NCI-H1355	ATCC	lung	carcinoma	adenocarcinoma
+GSM887359	NCI-H1373	ATCC	lung	carcinoma	adenocarcinoma
+GSM887360	NCI-H1385	ATCC	lung	carcinoma	squamous_cell_carcinoma
+GSM887361	NCI-H1395	ATCC	lung	carcinoma	adenocarcinoma
+GSM887362	NCI-H1435	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887363	NCI-H1436	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887364	NCI-H1437	ATCC	lung	carcinoma	adenocarcinoma
+GSM887365	NCI-H146	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887366	NCI-H1563	ATCC	lung	carcinoma	adenocarcinoma
+GSM887367	NCI-H1568	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887368	NCI-H1573	ATCC	lung	carcinoma	adenocarcinoma
+GSM887369	NCI-H1581	ATCC	lung	carcinoma	large_cell_carcinoma
+GSM887370	NCI-H1618	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887371	NCI-H1623	ATCC	lung	carcinoma	adenocarcinoma
+GSM887372	NCI-H1648	ATCC	lung	carcinoma	adenocarcinoma
+GSM887373	NCI-H1650	ATCC	lung	carcinoma	bronchioloalveolar_adenocarcinoma
+GSM887374	NCI-H1651	ATCC	lung	carcinoma	adenocarcinoma
+GSM887375	NCI-H1666	ATCC	lung	carcinoma	bronchioloalveolar_adenocarcinoma
+GSM887376	NCI-H1693	ATCC	lung	carcinoma	adenocarcinoma
+GSM887377	NCI-H1694	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887378	NCI-H1703	ATCC	lung	carcinoma	adenocarcinoma
+GSM887379	NCI-H1734	ATCC	lung	carcinoma	adenocarcinoma
+GSM887380	NCI-H1755	ATCC	lung	carcinoma	adenocarcinoma
+GSM887381	NCI-H1781	ATCC	lung	carcinoma	bronchioloalveolar_adenocarcinoma
+GSM887382	NCI-H1792	ATCC	lung	carcinoma	adenocarcinoma
+GSM887383	NCI-H1793	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887384	NCI-H1836	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887385	NCI-H1838	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887386	NCI-H1869	ATCC	lung	carcinoma	squamous_cell_carcinoma
+GSM887387	NCI-H1876	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887388	NCI-H1915	ATCC	lung	carcinoma	large_cell_carcinoma
+GSM887389	NCI-H1930	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887390	NCI-H1944	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887391	NCI-H1963	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887392	NCI-H196	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887393	NCI-H1975	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887394	NCI-H2009	ATCC	lung	carcinoma	adenocarcinoma
+GSM887395	NCI-H2023	ATCC	lung	carcinoma	adenocarcinoma
+GSM887396	NCI-H2029	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887397	NCI-H2030	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887398	NCI-H2052	ATCC	pleura	mesothelioma	NA
+GSM887399	NCI-H2066	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887400	NCI-H2081	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887401	NCI-H2085	ATCC	lung	carcinoma	adenocarcinoma
+GSM887402	NCI-H2087	ATCC	lung	carcinoma	adenocarcinoma
+GSM887403	NCI-H209	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887404	NCI-H2106	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887405	NCI-H2110	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887406	NCI-H211	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887407	NCI-H2122	ATCC	lung	carcinoma	adenocarcinoma
+GSM887408	NCI-H2126	ATCC	lung	carcinoma	adenocarcinoma
+GSM887409	NCI-H2141	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887410	NCI-H2170	ATCC	lung	carcinoma	squamous_cell_carcinoma
+GSM887411	NCI-H2171	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887412	NCI-H2172	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887413	NCI-H2196	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887414	NCI-H2227	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887415	NCI-H2228	ATCC	lung	carcinoma	adenocarcinoma
+GSM887416	NCI-H226	ATCC	lung	carcinoma	squamous_cell_carcinoma
+GSM887417	NCI-H2286	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887418	NCI-H2291	ATCC	lung	carcinoma	adenocarcinoma
+GSM887419	NCI-H2342	ATCC	lung	carcinoma	adenocarcinoma
+GSM887420	NCI-H2347	ATCC	lung	carcinoma	adenocarcinoma
+GSM887421	NCI-H23	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887422	NCI-H2405	ATCC	lung	carcinoma	adenocarcinoma
+GSM887423	NCI-H2444	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887424	NCI-H2452	ATCC	pleura	mesothelioma	NA
+GSM887425	NCI-H28	ATCC	pleura	mesothelioma	NA
+GSM887426	NCI-H322	ECACC	lung	carcinoma	adenocarcinoma
+GSM887427	NCI-H358	ATCC	lung	carcinoma	bronchioloalveolar_adenocarcinoma
+GSM887428	NCI-H441	ATCC	lung	carcinoma	adenocarcinoma
+GSM887429	NCI-H446	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887430	NCI-H460	ATCC	lung	carcinoma	large_cell_carcinoma
+GSM887431	NCI-H508	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887432	NCI-H510	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887433	NCI-H520	ATCC	lung	carcinoma	squamous_cell_carcinoma
+GSM887434	NCI-H522	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887435	NCI-H524	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887436	NCI-H526	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887437	NCI-H596	ATCC	lung	carcinoma	mixed_adenosquamous_carcinoma
+GSM887438	NCI-H647	ATCC	lung	carcinoma	mixed_adenosquamous_carcinoma
+GSM887439	NCI-H650	ATCC	lung	carcinoma	bronchioloalveolar_adenocarcinoma
+GSM887440	NCI-H660	ATCC	prostate	carcinoma	small_cell_carcinoma
+GSM887441	NCI-H661	ATCC	lung	carcinoma	large_cell_carcinoma
+GSM887442	NCI-H69	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887443	NCI-H716	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887444	NCI-H727	ATCC	lung	carcinoid-endocrine_tumour	NA
+GSM887445	NCI-H747	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887446	NCI-H810	ATCC	lung	carcinoma	large_cell_carcinoma
+GSM887447	NCI-H82	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887448	NCI-H838	ATCC	lung	carcinoma	non_small_cell_carcinoma
+GSM887449	NCI-H841	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887450	NCI-H854	KCLB	lung	carcinoma	adenocarcinoma
+GSM887451	NCI-H889	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887452	NCI-H929	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887453	NCI-N87	ATCC	stomach	carcinoma	NA
+GSM887454	NCO2	HSRRB	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	chronic_myeloid_leukaemia
+GSM887455	NH-6	HSRRB	autonomic_ganglia	neuroblastoma	NA
+GSM887456	NIH:OVCAR-3	ATCC	ovary	carcinoma	NA
+GSM887457	NMC-G1	HSRRB	central_nervous_system	glioma	NA
+GSM887458	NOMO-1	HSRRB	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887459	NU-DHL-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887460	NU-DUL-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	B_cell_lymphoma_unspecified
+GSM887461	NUGC-2	HSRRB	stomach	carcinoma	adenocarcinoma
+GSM887462	NUGC-3	HSRRB	stomach	carcinoma	NA
+GSM887463	NUGC-4	RIKEN	stomach	carcinoma	signet_ring_adenocarcinoma
+GSM887464	OAW28	ECACC	ovary	carcinoma	NA
+GSM887465	OAW42	ECACC	ovary	carcinoma	NA
+GSM887466	OC 314	ICLC	ovary	carcinoma	serous_carcinoma
+GSM887467	OC 316	ICLC	ovary	carcinoma	adenocarcinoma
+GSM887468	OCI-AML2	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887469	OCI-AML3	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887470	OCI-AML5	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887471	OCI-LY-19	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887472	OCI-LY3	Academic Lab	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887473	OCI-M1	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887474	OCUM-1	HSRRB	stomach	carcinoma	diffuse_adenocarcinoma
+GSM887475	OE19	ECACC	oesophagus	carcinoma	adenocarcinoma
+GSM887476	OE33	ECACC	oesophagus	other	metaplasia
+GSM887477	ONS-76	HSRRB	central_nervous_system	primitive_neuroectodermal_tumour-medulloblastoma	NA
+GSM887478	OPM-2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887479	OUMS-23	HSRRB	large_intestine	carcinoma	adenocarcinoma
+GSM887480	OUMS-27	HSRRB	bone	chondrosarcoma	NA
+GSM887481	OV56	ECACC	ovary	carcinoma	NA
+GSM887482	OV7	ECACC	ovary	carcinoma	NA
+GSM887483	OV-90	ATCC	ovary	carcinoma	mixed_carcinoma
+GSM887484	OVCAR-4	NCI/DCTD	ovary	carcinoma	NA
+GSM887485	OVCAR-8	NCI/DCTD	ovary	carcinoma	NA
+GSM887486	OVK18	RIKEN	ovary	carcinoma	endometrioid_carcinoma
+GSM887487	OVKATE	HSRRB	ovary	carcinoma	adenocarcinoma
+GSM887488	OVMANA	HSRRB	ovary	carcinoma	clear_cell_carcinoma
+GSM887489	OVSAHO	HSRRB	ovary	carcinoma	adenocarcinoma
+GSM887490	OVTOKO	HSRRB	ovary	carcinoma	clear_cell_carcinoma
+GSM887491	P12-ICHIKAWA	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887492	P31/FUJ	HSRRB	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887493	P3HR-1	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Burkitt_lymphoma
+GSM887494	Panc 02.03	ATCC	pancreas	carcinoma	NA
+GSM887495	Panc 02.13	ATCC	pancreas	carcinoma	NA
+GSM887496	Panc 03.27	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887497	Panc 04.03	ATCC	pancreas	carcinoma	NA
+GSM887498	Panc 05.04	ATCC	pancreas	carcinoma	NA
+GSM887499	Panc 08.13	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887500	Panc 10.05	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887501	PANC-1	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887502	PA-TU-8902	DSMZ	pancreas	carcinoma	ductal_carcinoma
+GSM887503	PA-TU-8988S	DSMZ	pancreas	carcinoma	ductal_carcinoma
+GSM887504	PA-TU-8988T	DSMZ	pancreas	carcinoma	ductal_carcinoma
+GSM887505	PC-14	RIKEN	lung	carcinoma	non_small_cell_carcinoma
+GSM887506	PC-3	ATCC	prostate	carcinoma	adenocarcinoma
+GSM887507	PCM6	RIKEN	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887508	PE/CA-PJ15	ECACC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887509	PE/CA-PJ34 (clone C12)	ECACC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887510	PE/CA-PJ41 (clone D2)	ECACC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887511	PE/CA-PJ49	ECACC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887512	PEER	HSRRB	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887513	PF-382	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887514	Pfeiffer	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887515	PK-1	RIKEN	pancreas	carcinoma	NA
+GSM887516	PK-45H	RIKEN	pancreas	carcinoma	NA
+GSM887517	PK-59	RIKEN	pancreas	carcinoma	NA
+GSM887518	PL-21	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887519	PL45	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887520	PLC/PRF/5	ATCC	liver	carcinoma	hepatocellular_carcinoma
+GSM887521	PSN1	ECACC	pancreas	carcinoma	ductal_carcinoma
+GSM887522	QGP-1	HSRRB	pancreas	carcinoma	NA
+GSM887523	Raji	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Burkitt_lymphoma
+GSM887524	RCC10RGB	RIKEN	kidney	carcinoma	renal_cell_carcinoma
+GSM887525	RCH-ACV	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_leukaemia
+GSM887526	RCM-1	HSRRB	large_intestine	carcinoma	adenocarcinoma
+GSM887527	RD-ES	ATCC	bone	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA
+GSM887528	RD	ATCC	soft_tissue	rhabdomyosarcoma	embryonal
+GSM887529	REC-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	mantle_cell_lymphoma
+GSM887530	Reh	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887531	RERF-GC-1B	HSRRB	stomach	carcinoma	NA
+GSM887532	RERF-LC-Ad1	HSRRB	lung	carcinoma	adenocarcinoma
+GSM887533	RERF-LC-Ad2	HSRRB	lung	carcinoma	adenocarcinoma
+GSM887534	RERF-LC-AI	RIKEN	lung	carcinoma	squamous_cell_carcinoma
+GSM887535	RERF-LC-KJ	HSRRB	lung	carcinoma	non_small_cell_carcinoma
+GSM887536	RERF-LC-MS	HSRRB	lung	carcinoma	non_small_cell_carcinoma
+GSM887537	RERF-LC-Sq1	HSRRB	lung	carcinoma	squamous_cell_carcinoma
+GSM887538	RH-41	DSMZ	soft_tissue	rhabdomyosarcoma	alveolar
+GSM887539	RI-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	B_cell_lymphoma_unspecified
+GSM887540	RKN	HSRRB	soft_tissue	leiomyosarcoma	NA
+GSM887541	RKO	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887542	RL95-2	ATCC	endometrium	carcinoma	mixed_adenosquamous_carcinoma
+GSM887543	RL	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	B_cell_lymphoma_unspecified
+GSM887544	RMG-I	HSRRB	ovary	carcinoma	clear_cell_carcinoma
+GSM887545	RMUG-S	HSRRB	ovary	carcinoma	adenocarcinoma
+GSM887546	RPMI 6666	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887547	RPMI-7951	ATCC	skin	malignant_melanoma	NA
+GSM887548	RPMI 8226	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887549	RPMI-8402	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887550	RS4;11	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887551	RT112/84	ECACC	urinary_tract	carcinoma	NA
+GSM887552	RT-112	DSMZ	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887553	RT4	ATCC	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887554	RVH-421	DSMZ	skin	malignant_melanoma	NA
+GSM887555	S-117	DSMZ	soft_tissue	sarcoma	NA
+GSM887556	SBC-5	HSRRB	lung	carcinoma	small_cell_carcinoma
+GSM887557	SCaBER	ATCC	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887558	SCC-15	ATCC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887559	SCC-25	ATCC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887560	SCC-4	ATCC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887561	SCC-9	ATCC	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887562	SCLC-21H	DSMZ	lung	carcinoma	small_cell_carcinoma
+GSM887563	SEM	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887564	Set-2	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	essential_thrombocythaemia
+GSM887565	SF126	HSRRB	central_nervous_system	glioma	astrocytoma
+GSM887566	SF-295	NCI/DCTD	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887567	SH-10-TC	RIKEN	stomach	carcinoma	NA
+GSM887568	SH-4	ATCC	skin	malignant_melanoma	NA
+GSM887569	SHP-77	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887570	SH-SY5Y	ATCC	autonomic_ganglia	neuroblastoma	NA
+GSM887571	SIG-M5	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887572	SIMA	DSMZ	autonomic_ganglia	neuroblastoma	NA
+GSM887573	SJRH30	ATCC	soft_tissue	rhabdomyosarcoma	NA
+GSM887574	SJSA-1	ATCC	bone	osteosarcoma	NA
+GSM887575	SK-BR-3	ATCC	breast	carcinoma	NA
+GSM887576	SK-CO-1	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887577	SK-ES-1	ATCC	bone	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA
+GSM887578	SK-HEP-1	ATCC	liver	carcinoma	adenocarcinoma
+GSM887579	SK-LMS-1	ATCC	soft_tissue	sarcoma	NA
+GSM887580	SK-LU-1	ATCC	lung	carcinoma	adenocarcinoma
+GSM887581	SKM-1	HSRRB	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887582	SK-MEL-1	ATCC	skin	malignant_melanoma	NA
+GSM887583	SK-MEL-24	ATCC	skin	malignant_melanoma	NA
+GSM887584	SK-MEL-28	ATCC	skin	malignant_melanoma	NA
+GSM887585	SK-MEL-2	ATCC	skin	malignant_melanoma	NA
+GSM887586	SK-MEL-30	DSMZ	skin	malignant_melanoma	NA
+GSM887587	SK-MEL-31	ATCC	skin	malignant_melanoma	NA
+GSM887588	SK-MEL-3	ATCC	skin	malignant_melanoma	NA
+GSM887589	SK-MEL-5	ATCC	skin	malignant_melanoma	NA
+GSM887590	SK-MES-1	ATCC	lung	carcinoma	squamous_cell_carcinoma
+GSM887591	SK-MM-2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887592	SK-N-AS	ATCC	autonomic_ganglia	neuroblastoma	NA
+GSM887593	SK-N-BE(2)	ATCC	autonomic_ganglia	neuroblastoma	NA
+GSM887594	SK-N-DZ	ATCC	autonomic_ganglia	neuroblastoma	NA
+GSM887595	SK-N-FI	ATCC	autonomic_ganglia	neuroblastoma	NA
+GSM887596	SK-N-MC	ATCC	bone	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA
+GSM887597	SK-N-SH	ATCC	autonomic_ganglia	neuroblastoma	NA
+GSM887598	SK-OV-3	ATCC	ovary	carcinoma	adenocarcinoma
+GSM887599	SK-UT-1	ATCC	soft_tissue	leiomyosarcoma	NA
+GSM887600	SNB-19	DSMZ	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887601	SNG-M	HSRRB	endometrium	carcinoma	adenocarcinoma
+GSM887602	SNU-1040	KCLB	large_intestine	carcinoma	NA
+GSM887603	SNU-1076	KCLB	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887604	SNU-1077	KCLB	endometrium	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour
+GSM887605	SNU-1079	KCLB	biliary_tract	carcinoma	NA
+GSM887606	SNU-1105	KCLB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887607	SNU-1196	KCLB	biliary_tract	carcinoma	NA
+GSM887608	SNU-119	KCLB	ovary	carcinoma	adenocarcinoma
+GSM887609	SNU-1214	KCLB	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887610	SNU-1272	KCLB	kidney	carcinoma	clear_cell_renal_cell_carcinoma
+GSM887611	SNU-16	ATCC	stomach	carcinoma	undifferentiated_adenocarcinoma
+GSM887612	SNU-175	KCLB	large_intestine	carcinoma	NA
+GSM887613	SNU-182	ATCC	liver	carcinoma	hepatocellular_carcinoma
+GSM887614	SNU-1	ATCC	stomach	carcinoma	undifferentiated_adenocarcinoma
+GSM887615	SNU-201	KCLB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887616	SNU-213	KCLB	pancreas	carcinoma	NA
+GSM887617	SNU-216	KCLB	stomach	carcinoma	NA
+GSM887618	SNU-245	KCLB	biliary_tract	carcinoma	NA
+GSM887619	SNU-283	KCLB	large_intestine	carcinoma	NA
+GSM887620	SNU-308	KCLB	biliary_tract	carcinoma	NA
+GSM887621	SNU-324	KCLB	pancreas	carcinoma	NA
+GSM887622	SNU-387	ATCC	liver	carcinoma	hepatocellular_carcinoma
+GSM887623	SNU-398	ATCC	liver	carcinoma	hepatocellular_carcinoma
+GSM887624	SNU-407	KCLB	large_intestine	carcinoma	NA
+GSM887625	SNU-410	KCLB	pancreas	carcinoma	NA
+GSM887626	SNU-423	ATCC	liver	carcinoma	hepatocellular_carcinoma
+GSM887627	SNU-449	ATCC	liver	carcinoma	hepatocellular_carcinoma
+GSM887628	SNU-466	KCLB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887629	SNU-46	KCLB	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887630	SNU-475	ATCC	liver	carcinoma	hepatocellular_carcinoma
+GSM887631	SNU-478	KCLB	biliary_tract	carcinoma	NA
+GSM887632	SNU-503	KCLB	large_intestine	carcinoma	NA
+GSM887633	SNU-520	KCLB	stomach	carcinoma	NA
+GSM887634	SNU-5	ATCC	stomach	carcinoma	undifferentiated_adenocarcinoma
+GSM887635	SNU-61	KCLB	large_intestine	carcinoma	NA
+GSM887636	SNU-620	KCLB	stomach	carcinoma	NA
+GSM887637	SNU-626	KCLB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887638	SNU-738	KCLB	central_nervous_system	glioma	oligodendroglioma
+GSM887639	SNU-761	KCLB	liver	carcinoma	hepatocellular_carcinoma
+GSM887640	SNU-840	KCLB	ovary	carcinoma	Brenner_tumour
+GSM887641	SNU-878	KCLB	liver	carcinoma	hepatocellular_carcinoma
+GSM887642	SNU-899	KCLB	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887643	SNU-C1	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887644	SNU-C2A	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887645	SNU-C4	KCLB	large_intestine	carcinoma	adenocarcinoma
+GSM887646	SNU-C5	KCLB	large_intestine	carcinoma	adenocarcinoma
+GSM887647	Sq-1	RIKEN	lung	carcinoma	squamous_cell_carcinoma
+GSM887648	SR-786	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	anaplastic_large_cell_lymphoma
+GSM887649	ST486	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Burkitt_lymphoma
+GSM887650	SU.86.86	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887651	SU-DHL-10	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887652	SU-DHL-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	anaplastic_large_cell_lymphoma
+GSM887653	SU-DHL-4	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887654	SU-DHL-5	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887655	SU-DHL-6	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887656	SU-DHL-8	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887657	SUIT-2	HSRRB	pancreas	carcinoma	ductal_carcinoma
+GSM887658	SUP-B15	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia
+GSM887659	SUP-HD1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887660	SUP-M2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	anaplastic_large_cell_lymphoma
+GSM887661	SUP-T11	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	peripheral_T_cell_lymphoma_unspecified
+GSM887662	SUP-T1	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887663	SW 1088	ATCC	central_nervous_system	glioma	NA
+GSM887664	SW1116	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887665	SW 1271	ATCC	lung	carcinoma	small_cell_carcinoma
+GSM887666	SW 1353	ATCC	bone	chondrosarcoma	NA
+GSM887667	SW1417	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887668	SW1463	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887669	SW 1573	ATCC	lung	carcinoma	squamous_cell_carcinoma
+GSM887670	SW-1710	DSMZ	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887671	SW 1783	ATCC	central_nervous_system	glioma	astrocytoma_Grade_III
+GSM887672	SW 1990	ATCC	pancreas	carcinoma	ductal_carcinoma
+GSM887673	SW403	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887674	SW480	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887675	SW48	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887676	SW579	ATCC	thyroid	carcinoma	anaplastic_carcinoma
+GSM887677	SW620	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887678	SW 780	ATCC	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887679	SW837	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887680	SW 900	ATCC	lung	carcinoma	squamous_cell_carcinoma
+GSM887681	SW948	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887682	T1-73	ATCC	bone	osteosarcoma	NA
+GSM887683	T24	ATCC	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887684	T3M-4	RIKEN	pancreas	carcinoma	ductal_carcinoma
+GSM887685	T-47D	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887686	T84	ATCC	large_intestine	carcinoma	adenocarcinoma
+GSM887687	T98G	ATCC	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887688	TALL-1	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia
+GSM887689	TC-71	DSMZ	bone	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA
+GSM887690	TCC-PAN2	HSRRB	pancreas	carcinoma	NA
+GSM887691	TE-10	RIKEN	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887692	TE-11	RIKEN	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887693	TE-14	RIKEN	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887694	TE-15	RIKEN	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887695	TE-1	RIKEN	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887696	TE 441.T	ATCC	soft_tissue	rhabdomyosarcoma	NA
+GSM887697	TE-4	RIKEN	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887698	TE-5	RIKEN	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887699	TE 617.T	ATCC	soft_tissue	rhabdomyosarcoma	NA
+GSM887700	TE-6	RIKEN	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887701	TE-8	RIKEN	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887702	TE-9	RIKEN	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887703	TEN	RIKEN	endometrium	carcinoma	clear_cell_carcinoma
+GSM887704	TF-1	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887705	TGBC11TKB	RIKEN	stomach	carcinoma	NA
+GSM887706	THP-1	ATCC	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887707	TM-31	RIKEN	central_nervous_system	glioma	astrocytoma
+GSM887708	TO 175.T	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma
+GSM887709	Toledo	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887710	TOV-112D	ATCC	ovary	carcinoma	endometrioid_carcinoma
+GSM887711	TOV-21G	ATCC	ovary	carcinoma	clear_cell_carcinoma
+GSM887712	TT2609-C02	DSMZ	thyroid	carcinoma	follicular_carcinoma
+GSM887713	T.T	HSRRB	oesophagus	carcinoma	squamous_cell_carcinoma
+GSM887714	TT	ATCC	thyroid	carcinoma	medullary_carcinoma
+GSM887715	TUHR10TKB	RIKEN	kidney	carcinoma	NA
+GSM887716	TUHR14TKB	RIKEN	kidney	carcinoma	NA
+GSM887717	TUHR4TKB	RIKEN	kidney	carcinoma	NA
+GSM887718	TYK-nu	HSRRB	ovary	carcinoma	undifferentiated_carcinoma
+GSM887719	U-138 MG	ATCC	central_nervous_system	glioma	astrocytoma
+GSM887720	U-251 MG	HSRRB	central_nervous_system	glioma	astrocytoma
+GSM887721	U266B1	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma
+GSM887722	U-2 OS	ATCC	bone	osteosarcoma	NA
+GSM887723	U-87 MG	ATCC	central_nervous_system	glioma	astrocytoma
+GSM887724	U-937	ATCC	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887725	UACC-257	NCI/DCTD	skin	malignant_melanoma	NA
+GSM887726	UACC-62	NCI/DCTD	skin	malignant_melanoma	NA
+GSM887727	UACC-812	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887728	UACC-893	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887729	UM-UC-3	ATCC	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887730	UT-7	DSMZ	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia
+GSM887731	VCaP	ATCC	prostate	carcinoma	adenocarcinoma
+GSM887732	VM-CUB1	DSMZ	urinary_tract	carcinoma	transitional_cell_carcinoma
+GSM887733	VMRC-RCW	RIKEN	kidney	carcinoma	NA
+GSM887734	VMRC-RCZ	HSRRB	kidney	carcinoma	renal_cell_carcinoma
+GSM887735	WM-115	ATCC	skin	malignant_melanoma	NA
+GSM887736	WM1799	Academic Lab	skin	malignant_melanoma	NA
+GSM887737	WM-266-4	ATCC	skin	malignant_melanoma	NA
+GSM887738	WM-793	Academic Lab	skin	malignant_melanoma	NA
+GSM887739	WM-88	Academic Lab	skin	malignant_melanoma	NA
+GSM887740	WM-983B	Academic Lab	skin	malignant_melanoma	NA
+GSM887741	WSU-DLCL2	DSMZ	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma
+GSM887742	YAPC	DSMZ	pancreas	carcinoma	NA
+GSM887743	YD-10B	KCLB	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887744	YD-15	KCLB	salivary_gland	carcinoma	mucoepidermoid_carcinoma
+GSM887745	YD-38	KCLB	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887746	YD-8	KCLB	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma
+GSM887747	YH-13	HSRRB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887748	YKG1	HSRRB	central_nervous_system	glioma	astrocytoma_Grade_IV
+GSM887749	YMB-1	HSRRB	breast	carcinoma	NA
+GSM887750	ZR-75-1	ATCC	breast	carcinoma	ductal_carcinoma
+GSM887751	ZR-75-30	ATCC	breast	carcinoma	ductal_carcinoma
